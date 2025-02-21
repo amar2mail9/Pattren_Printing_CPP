@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-    // How much Time Want Print
+
     int num = 4;
 
     for (int i = 1; i <= num; i++)
